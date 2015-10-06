@@ -14,7 +14,6 @@ def sum arr
   end
 end
 
-
 def max_2_sum arr
     if arr.length == 0 
         return 0
